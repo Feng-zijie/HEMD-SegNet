@@ -4,7 +4,7 @@
     <img src="HEMD-SegNet.png">
 </p>
 
-> <h2>The complete model code will be made public successively after the paper is accepted for publication.</h2>
+> <h2>The complete model code will be released to the public successively</h2>
 
 ## Installation
 
